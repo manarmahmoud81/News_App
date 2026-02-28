@@ -24,17 +24,17 @@ class AppStyles {
     color: AppColors.secondaryColor,
   );
 
-  static TextStyle black16w600Style = TextStyle(
+  static TextStyle black18w600Style = TextStyle(
     fontFamily: AppFonts.mainFontName,
-    fontSize: 16,
+    fontSize: 18,
     fontWeight: FontWeight.w600,
     color: AppColors.blackColor,
   );
 
-  static TextStyle gray12w500Style = TextStyle(
+  static TextStyle gray12w400Style = TextStyle(
     fontFamily: AppFonts.mainFontName,
     fontSize: 12,
-    fontWeight: FontWeight.w500,
+    fontWeight: FontWeight.w400,
     color: AppColors.grayColor,
   );
 

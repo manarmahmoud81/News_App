@@ -13,6 +13,7 @@ void main() async {
         supportedLocales: [Locale('en'), Locale('ar')],
         path: 'assets/translations', // <-- change the path of the translation files
         fallbackLocale: Locale( 'ar'),
+        // startLocale: Locale('en'),
         assetLoader: CodegenLoader(),
         child: MyApp()
     ),
