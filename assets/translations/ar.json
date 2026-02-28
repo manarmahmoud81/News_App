@@ -8,7 +8,12 @@
     "headline": "آبل تكشف عن ميزات ذكاء اصطناعي ثورية",
     "author_date": "منار . 1 مايو 2025",
     "main_title": "العنوان الرئيسي {}",
-    "sub_title": "العنوان الفرعي {}"
+    "sub_title": "العنوان الفرعي {}",
+    "technology": "تقنية",
+    "business": "أعمال",
+    "entertainment": "ترفيه",
+    "sports": "رياضة",
+    "health": "صحة"
   },
   "home_page": "الرئيسية"
 }

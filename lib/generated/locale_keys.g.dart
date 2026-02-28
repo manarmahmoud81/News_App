@@ -12,6 +12,11 @@ abstract class  LocaleKeys {
   static const Authentication_author_date = 'Authentication.author_date';
   static const Authentication_main_title = 'Authentication.main_title';
   static const Authentication_sub_title = 'Authentication.sub_title';
+  static const Authentication_technology = 'Authentication.technology';
+  static const Authentication_business = 'Authentication.business';
+  static const Authentication_entertainment = 'Authentication.entertainment';
+  static const Authentication_sports = 'Authentication.sports';
+  static const Authentication_health = 'Authentication.health';
   static const Authentication = 'Authentication';
   static const home_page = 'home_page';
 

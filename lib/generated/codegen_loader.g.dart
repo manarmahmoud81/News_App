@@ -24,7 +24,12 @@ class CodegenLoader extends AssetLoader{
     "headline": "آبل تكشف عن ميزات ذكاء اصطناعي ثورية",
     "author_date": "منار . 1 مايو 2025",
     "main_title": "العنوان الرئيسي {}",
-    "sub_title": "العنوان الفرعي {}"
+    "sub_title": "العنوان الفرعي {}",
+    "technology": "تقنية",
+    "business": "أعمال",
+    "entertainment": "ترفيه",
+    "sports": "رياضة",
+    "health": "صحة"
   },
   "home_page": "الرئيسية"
 };
@@ -38,7 +43,12 @@ static const Map<String,dynamic> _en = {
     "headline": "Apple Unveils Revolutionary AI Features",
     "author_date": "Manar . May 1, 2025",
     "main_title": "Main Title {}",
-    "sub_title": "Sub Title {}"
+    "sub_title": "Sub Title {}",
+    "technology": "Technology",
+    "business": "Business",
+    "entertainment": "Entertainment",
+    "sports": "Sports",
+    "health": "Health"
   },
   "home_page": "Home"
 };

@@ -1,5 +1,5 @@
 {
-  "Authentication":{
+  "Authentication": {
     "settings": "Settings",
     "english": "English",
     "arabic": "Arabic",
@@ -8,9 +8,12 @@
     "headline": "Apple Unveils Revolutionary AI Features",
     "author_date": "Manar . May 1, 2025",
     "main_title": "Main Title {}",
-    "sub_title": "Sub Title {}"
+    "sub_title": "Sub Title {}",
+    "technology": "Technology",
+    "business": "Business",
+    "entertainment": "Entertainment",
+    "sports": "Sports",
+    "health": "Health"
   },
   "home_page": "Home"
-  }
-
-
+}
